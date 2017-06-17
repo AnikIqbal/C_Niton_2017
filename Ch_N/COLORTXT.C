@@ -5,7 +5,7 @@
 int main(){
 	clrscr();
 	textcolor(CYAN);
-	cprintf("I am a novice programmer. LOL");
+	cprintf("Monami is Cute.\a");
 	sleep(2);
 	return 0;
 }
