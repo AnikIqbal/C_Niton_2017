@@ -3,9 +3,9 @@
 
 <strong>TO BE NOTICED</strong>
 
-  * The source code was inteneded to be compiled using TCC.
-  * Since TCC is outdated, most of the codes(in this repository) may not compile on modern compilers without proper modifications in the source code.
-  * As for Linux, please install <em><strong>ncurses header file</em></strong> as an alternative to <em>conio.h</em>. 
-  * The source files are catagorized in such a way that each directory represents certain chapter.
-  * There maybe additional text files(.txt) with the same name of the source file which might contain useful information about the corrosponding program source.
-  * The source may contain modified string but the end goal is not changed.
+  * The source code was originally written for Turbo C++ IDE so the source code is modified to meet the requirements of modern compilers such as GCC, Clang.
+  * Some strings are changed to my own likings but the end goal is kept same.
+  * The codes are made portable as possible.
+  * There may be additional text files(.txt) which cover useful information.
+
+<em><strong>Compiled using GCC 6.2.0 on Ubuntu 17.04 64-Bit</em></strong>
