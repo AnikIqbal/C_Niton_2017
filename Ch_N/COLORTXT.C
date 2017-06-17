@@ -3,9 +3,9 @@
 #include <dos.h>
 
 int main(){
-	clrscr();
-	textcolor(CYAN);
-	cprintf("Monami is Cute.\a");
-	sleep(2);
-	return 0;
+   clrscr();
+   textcolor(RED);
+   cprintf("Monami is Cute.\n");
+   sleep(2);
+return 0;
 }
